@@ -1,0 +1,2 @@
+# VirtualCanary
+Canary Install Files
